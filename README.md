@@ -1,4 +1,4 @@
 Hey
-its me mega
-i created this project to learn html
-feel free to check out the rest of this project :)
+its me megasss
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">check out my first project here!</a>
